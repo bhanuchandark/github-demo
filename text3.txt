@@ -1,1 +1,1 @@
-this is the branching directory
+this is the branching directory and merging file
